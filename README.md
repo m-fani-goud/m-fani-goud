@@ -56,38 +56,61 @@ Actively seeking **internship / entry-level software roles** where I can apply m
 📱 **Phone:** 9676462290  
 
 ---
+## 🎓 Education
 
+- **Bachelor of Technology (B.Tech)**  
+  Computer Science  
+  **TKR College of Engineering and Technology**  
+  Graduation Year: **2025**
+ ---
+
+## ⭐ Key Skills Snapshot
+
+- 💻 Full-Stack Web Development  
+- ⚛️ React & Tailwind CSS  
+- ⚙️ Node.js Backend  
+- 🗄️ MongoDB & MySQL  
+- 🔁 Git & GitHub Version Control
+---
 ## 🛠️ Technical Skills
 
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+### 🧠 Programming & Analytics
+- Python  
+- Java  
+- SQL  
+- R  
+- Statistical Analysis  
+- Data Mining  
+- Business Intelligence  
 
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+### 📊 Data Science & Machine Learning
+- Scikit-learn  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Regression Techniques  
+- Classification Algorithms  
+- Clustering Methods  
+- Predictive Modeling  
 
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+### 🌐 Web Development & Databases
+- Flask  
+- HTML5  
+- CSS3  
+- JavaScript  
+- RESTful APIs  
+- MySQL  
+- SQLite  
+- Git Version Control  
 
-### 🧰 Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
+### 🔧 Specialized Skills & Tools
+- Data Visualization  
+- Feature Engineering  
+- Model Deployment  
+- CRUD Operations  
+- Database Design
 ---
-
 ## 📂 Academic & Personal Projects
 
 ### 🚀 Email Spam Detection
@@ -111,7 +134,14 @@ Actively seeking **internship / entry-level software roles** where I can apply m
 - Built with HTML & CSS
 
 ---
+## 🚀 What I Can Contribute
 
+- Build responsive and user-friendly web interfaces  
+- Develop backend APIs using Node.js  
+- Integrate MongoDB and MySQL databases with applications  
+- Write clean, readable, and maintainable code  
+- Learn quickly and adapt to new technologies
+---
 ## 📊 GitHub Performance 🚀
 
 - 📁 Multiple repositories covering frontend, backend & full-stack development  
