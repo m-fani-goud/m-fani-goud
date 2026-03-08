@@ -86,7 +86,7 @@ Below are projects I built across **Full Stack, Web Applications, and Machine Le
 Full-stack MERN job portal connecting recruiters and job seekers.
 
 🔗  
-https://careerforge-job-portal-3ep9w3810-mandala-fanis-projects.vercel.app
+https://careerforge-job-portal.vercel.app
 
 Features
 
