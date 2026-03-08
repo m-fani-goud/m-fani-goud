@@ -1,0 +1,43 @@
+name: Update README Automatically
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update README Sections
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout repository
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Step 2: Update GitHub Activity Section
+      - name: Update Latest Activity
+        uses: Readme-Workflows/recent-activity@v2
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MSG: "⚡ Updated README with latest GitHub activity"
+
+      # Step 3: Update Latest Repositories Section
+      - name: Update Latest Repositories
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "repos"
+          feed_list: "https://github.com/m-fani-goud.atom"
+          commit_message: "📦 Updated README with latest repositories"
+
+      # Step 4: Update Blog Posts (Optional)
+      - name: Update Blog Posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "blog"
+          feed_list: ""
+          commit_message: "📝 Updated README with latest blog posts"
