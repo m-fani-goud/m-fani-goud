@@ -1,11 +1,11 @@
-<!-- ================= HEADER BANNER ================= -->
+<!-- ================= HEADER ================= -->
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:EC4899&height=260&section=header&text=Fani%20Goud&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/m-fani-goud/m-fani-goud/main/tmp_128399d7-a38a-4383-b71e-2cee94e7ae4c.jpeg" width="180"/>
+<img src="https://raw.githubusercontent.com/m-fani-goud/m-fani-goud/main/tmp_128399d7-a38a-4383-b71e-2cee94e7ae4c.jpeg" width="170"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Fani Goud</h1>
@@ -77,7 +77,7 @@
 
 # 🚀 Projects Portfolio
 
-Below are projects I built across **Full Stack Development, Web Applications, and Machine Learning.**
+Below are projects I built across **Full Stack, Web Applications, and Machine Learning.**
 
 ---
 
@@ -85,8 +85,8 @@ Below are projects I built across **Full Stack Development, Web Applications, an
 
 Full-stack MERN job portal connecting recruiters and job seekers.
 
-🔗 Live  
-https://careerforge-job-portal-3ep9w3810-mandala-fanis-projects.vercel.app  
+🔗  
+https://careerforge-job-portal-3ep9w3810-mandala-fanis-projects.vercel.app
 
 Features
 
@@ -102,14 +102,14 @@ React • Node.js • Express • MongoDB • Tailwind CSS
 
 ## 📊 AI Worker Productivity Dashboard
 
-🔗 Live  
-https://ai-worker-productivity-dashboard-ymdo-r5vhsf86w.vercel.app  
+🔗  
+https://ai-worker-productivity-dashboard-ymdo-r5vhsf86w.vercel.app
 
 Features
 
 • Worker productivity analytics  
-• Event based activity monitoring  
-• Interactive dashboard  
+• Event tracking  
+• Dashboard visualization  
 
 Tech Stack  
 React • Node.js • Docker
@@ -118,8 +118,8 @@ React • Node.js • Docker
 
 ## 🧑‍💼 CRM Lead Manager
 
-🔗 Live  
-https://future-fs-01-cyan.vercel.app  
+🔗  
+https://future-fs-01-cyan.vercel.app
 
 Features
 
@@ -134,8 +134,8 @@ React • Node.js • MongoDB
 
 ## 🍽 Dawath Restaurant Website
 
-🔗 Live  
-https://future-fs-02-topaz.vercel.app  
+🔗  
+https://future-fs-02-topaz.vercel.app
 
 Features
 
@@ -143,19 +143,19 @@ Features
 • Restaurant landing page  
 
 Tech Stack  
-React • Tailwind CSS
+React • Tailwind
 
 ---
 
 ## 🛒 Blinkit Clone
 
-🔗 Live  
-https://enquero-blink-d4owb06lj-mandala-fanis-projects.vercel.app  
+🔗  
+https://enquero-blink-d4owb06lj-mandala-fanis-projects.vercel.app
 
 Features
 
 • Grocery delivery UI  
-• Responsive layout  
+• Responsive design  
 
 Tech Stack  
 React • JavaScript
@@ -164,13 +164,13 @@ React • JavaScript
 
 ## 🏫 College Website
 
-🔗 Live  
-https://college-website-sqkb.vercel.app  
+🔗  
+https://college-website-sqkb.vercel.app
 
 Features
 
 • College information portal  
-• Responsive design  
+• Responsive layout  
 
 Tech Stack  
 React • Node.js
@@ -179,8 +179,8 @@ React • Node.js
 
 ## 👨‍💼 Employee Leave Management
 
-🔗 Live  
-https://employee-leave-management.vercel.app  
+🔗  
+https://employee-leave-management.vercel.app
 
 Features
 
@@ -194,8 +194,8 @@ JavaScript
 
 ## 🌦 Weather Application
 
-🔗 Live  
-https://weather-app-demo.vercel.app  
+🔗  
+https://weather-app-demo.vercel.app
 
 Features
 
@@ -203,7 +203,7 @@ Features
 • City search  
 
 Tech Stack  
-JavaScript • Weather API
+JavaScript • API
 
 ---
 
@@ -241,7 +241,6 @@ Python • Scikit-Learn
 
 ---
 
-
 # 📊 GitHub Activity Graph
 
 <p align="center">
@@ -262,22 +261,16 @@ Python • Scikit-Learn
 
 ---
 
-# 📝 Latest Blog Posts
-<!--START_SECTION:blog-->
-<!--END_SECTION:blog-->
-
----
-
 # 🎯 Current Focus
 
 ✔ Preparing for **Software Placements**  
 ✔ Building **Advanced MERN Stack Projects**  
 ✔ Learning **Backend Architecture**  
-✔ Practicing **Data Structures & Algorithms**
+✔ Practicing **Data Structures**
 
 ---
 
-⭐ If you like my work, please **star my repositories!**
+⭐ If you like my work, please **star my repositories**
 
 ---
 
