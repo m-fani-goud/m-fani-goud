@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://portfolio-tbgs-gokcgtgli-mandala-fanis-projects.vercel.app">
+<a href="https://fani-goud-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
