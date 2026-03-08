@@ -1,172 +1,286 @@
-<!-- PROFILE PHOTO -->
+<!-- ================= HEADER BANNER ================= -->
+
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/m-fani-goud/m-fani-goud/main/tmp_128399d7-a38a-4383-b71e-2cee94e7ae4c.jpeg"
-    width="180"
-  />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:EC4899&height=260&section=header&text=Fani%20Goud&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/m-fani-goud/m-fani-goud/main/tmp_128399d7-a38a-4383-b71e-2cee94e7ae4c.jpeg" width="180"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Fani Goud</h1>
 
-<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=F75C7E&center=true&vCenter=true&width=700&lines=Aspiring+Full-Stack+Developer;React+%7C+Tailwind+CSS+%7C+Node.js;MongoDB+%7C+MySQL;Actively+seeking+Internships+%26+Placements" />
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=F75C7E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Engineer;Machine+Learning+Enthusiast;Building+Real+World+Applications;Open+to+Internships+%26+Placements"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=m-fani-goud&label=Profile%20Views&color=brightgreen&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=m-fani-goud&label=Profile%20Views&color=brightgreen&style=flat"/>
 </p>
 
 ---
 
-## 🎯 Career Objective (Placement Focused)
+# 👨‍💻 About Me
 
-Aspiring **Full-Stack Developer** with hands-on experience in **frontend, backend, and databases**.  
-Actively seeking **internship / entry-level software roles** where I can apply my skills, learn from industry professionals, and contribute to impactful projects.
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Computer Science graduate (or student)
-- 💻 Strong foundation in **Web Development**
-- 🌱 Currently improving **React, Node.js & Databases**
-- 🛠️ Love building real-world, problem-solving projects
-- 🤝 Open to internships, placements & collaborations
+🎓 B.Tech Computer Science Graduate (2025)  
+💻 Passionate **Full Stack Developer**  
+⚛️ Specialized in **MERN Stack**  
+📊 Exploring **Machine Learning & Data Science**  
+🚀 Building real-world applications  
 
 ---
 
-## 📞 Contact Details
+# 🌐 Connect With Me
 
-<p>
-  <a href="mailto:mandalafanigoud@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/fani-goud">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/m-fani-goud">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://portfolio-tbgs-gokcgtgli-mandala-fanis-projects.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+<p align="center">
+
+<a href="mailto:mandalafanigoud@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/fani-goud">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/m-fani-goud">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-tbgs-gokcgtgli-mandala-fanis-projects.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
 
 📱 **Phone:** 9676462290  
 
 ---
-## 🎓 Education
 
-- **Bachelor of Technology (B.Tech)**  
-  Computer Science  
-  **TKR College of Engineering and Technology**  
-  Graduation Year: **2025**
- ---
+# 🛠 Tech Stack
 
-## ⭐ Key Skills Snapshot
+### Programming
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c"/>
 
-- 💻 Full-Stack Web Development  
-- ⚛️ React & Tailwind CSS  
-- ⚙️ Node.js Backend  
-- 🗄️ MongoDB & MySQL  
-- 🔁 Git & GitHub Version Control
----
-## 🛠️ Technical Skills
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
 
-### 🧠 Programming & Analytics
-- Python  
-- Java  
-- SQL  
-- R  
-- Statistical Analysis  
-- Data Mining  
-- Business Intelligence  
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
-### 📊 Data Science & Machine Learning
-- Scikit-learn  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Regression Techniques  
-- Classification Algorithms  
-- Clustering Methods  
-- Predictive Modeling  
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
 
-### 🌐 Web Development & Databases
-- Flask  
-- HTML5  
-- CSS3  
-- JavaScript  
-- RESTful APIs  
-- MySQL  
-- SQLite  
-- Git Version Control  
-
-### 🔧 Specialized Skills & Tools
-- Data Visualization  
-- Feature Engineering  
-- Model Deployment  
-- CRUD Operations  
-- Database Design
----
-## 📂 Academic & Personal Projects
-
-### 🚀 Email Spam Detection
-- Built using **Python**
-- Classifies emails as spam or not spam
-
-### 🌦️ Weather Application
-- Fetches real-time weather data using APIs
-- Displays city-based weather information
-
-### 🌐 Portfolio Website
-- Showcases projects & skills
-- Built using **HTML, CSS & JavaScript**
-
-### 🧑‍💼 Employee Leave Management System
-- JavaScript-based system
-- Manages employee leave requests
-
-### 🏫 College Website
-- Responsive static website
-- Built with HTML & CSS
-
----
-## 🚀 What I Can Contribute
-
-- Build responsive and user-friendly web interfaces  
-- Develop backend APIs using Node.js  
-- Integrate MongoDB and MySQL databases with applications  
-- Write clean, readable, and maintainable code  
-- Learn quickly and adapt to new technologies
----
-## 📊 GitHub Performance 🚀
-
-- 📁 Multiple repositories covering frontend, backend & full-stack development  
-- 🔁 Strong usage of GitHub for version control and project management  
-- 🧠 Continuous improvement through hands-on coding and learning  
-- 🛠️ Focus on clean, structured, and maintainable code
----
-
-## 🎯 Currently Preparing For
-
-- 💼 Placements & technical interviews
-- ⚛️ React & Full-Stack projects
-- ⚙️ Backend & API development
-- 🧠 Data structures & problem-solving
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel"/>
 
 ---
 
-## 🤝 Looking For Opportunities
+# 🚀 Projects Portfolio
 
-✅ Internships  
-✅ Entry-level Software Developer roles  
-✅ Full-Stack / Web Developer positions  
-
-📬 **Feel free to reach out — I’m ready to learn & contribute!**
+Below are projects I built across **Full Stack Development, Web Applications, and Machine Learning.**
 
 ---
 
-⭐ *If you like my work, don’t forget to star my repositories!* ⭐
+## 💼 CareerForge – Job Portal
+
+Full-stack MERN job portal connecting recruiters and job seekers.
+
+🔗 Live  
+https://careerforge-job-portal-3ep9w3810-mandala-fanis-projects.vercel.app  
+
+Features
+
+• OTP Authentication  
+• Resume Upload  
+• Recruiter Dashboard  
+• Job Application Tracking  
+
+Tech Stack  
+React • Node.js • Express • MongoDB • Tailwind CSS
+
+---
+
+## 📊 AI Worker Productivity Dashboard
+
+🔗 Live  
+https://ai-worker-productivity-dashboard-ymdo-r5vhsf86w.vercel.app  
+
+Features
+
+• Worker productivity analytics  
+• Event based activity monitoring  
+• Interactive dashboard  
+
+Tech Stack  
+React • Node.js • Docker
+
+---
+
+## 🧑‍💼 CRM Lead Manager
+
+🔗 Live  
+https://future-fs-01-cyan.vercel.app  
+
+Features
+
+• Lead tracking  
+• Customer logs  
+• Admin dashboard  
+
+Tech Stack  
+React • Node.js • MongoDB
+
+---
+
+## 🍽 Dawath Restaurant Website
+
+🔗 Live  
+https://future-fs-02-topaz.vercel.app  
+
+Features
+
+• Modern responsive UI  
+• Restaurant landing page  
+
+Tech Stack  
+React • Tailwind CSS
+
+---
+
+## 🛒 Blinkit Clone
+
+🔗 Live  
+https://enquero-blink-d4owb06lj-mandala-fanis-projects.vercel.app  
+
+Features
+
+• Grocery delivery UI  
+• Responsive layout  
+
+Tech Stack  
+React • JavaScript
+
+---
+
+## 🏫 College Website
+
+🔗 Live  
+https://college-website-sqkb.vercel.app  
+
+Features
+
+• College information portal  
+• Responsive design  
+
+Tech Stack  
+React • Node.js
+
+---
+
+## 👨‍💼 Employee Leave Management
+
+🔗 Live  
+https://employee-leave-management.vercel.app  
+
+Features
+
+• Leave request system  
+• Approval workflow  
+
+Tech Stack  
+JavaScript
+
+---
+
+## 🌦 Weather Application
+
+🔗 Live  
+https://weather-app-demo.vercel.app  
+
+Features
+
+• Real-time weather data  
+• City search  
+
+Tech Stack  
+JavaScript • Weather API
+
+---
+
+## 🚗 Used Car Price Prediction
+
+Machine learning model predicting used car prices.
+
+Tech Stack  
+Python • Pandas • NumPy • Scikit-Learn
+
+---
+
+## 📧 Email Spam Detection
+
+Machine learning model classifying emails as spam.
+
+Tech Stack  
+Python • Scikit-Learn
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=m-fani-goud&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=m-fani-goud&theme=tokyonight"/>
+</p>
+
+---
+
+
+# 📊 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=m-fani-goud&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🚀 Latest Repositories
+<!--START_SECTION:repos-->
+<!--END_SECTION:repos-->
+
+---
+
+# ⚡ Latest Coding Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+# 📝 Latest Blog Posts
+<!--START_SECTION:blog-->
+<!--END_SECTION:blog-->
+
+---
+
+# 🎯 Current Focus
+
+✔ Preparing for **Software Placements**  
+✔ Building **Advanced MERN Stack Projects**  
+✔ Learning **Backend Architecture**  
+✔ Practicing **Data Structures & Algorithms**
+
+---
+
+⭐ If you like my work, please **star my repositories!**
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:4F46E5&height=120&section=footer"/>
+</p>
